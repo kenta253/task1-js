@@ -1,0 +1,28 @@
+#time {
+  margin-left: 20px;
+  font-size: 20px;
+  position: relative;
+  top: 300px;
+  left: 650px
+}
+
+#stop {
+  margin-left: -40px;
+}
+
+#reset {
+  margin-left: -40px;
+}
+
+.title {
+  position: relative;
+  left: 640px;
+  top: 260px;
+  font-weight: bold;
+}
+
+.button {
+  position: relative;
+  left: 600px;
+  top: 300px;
+}
